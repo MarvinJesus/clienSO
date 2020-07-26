@@ -25,7 +25,10 @@ a:hover {
 h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Raleway", sans-serif;
 }
-
+iframe {
+  width: 100%;
+  max-height: 460px;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
