@@ -36,7 +36,7 @@ var data = [
 			],
 		},
 		{
-			name: "DNS",
+			name: "Carpeta Grupal Desde el Servidor",
 			descrption: "",
 			instalacion:
 			[
@@ -63,6 +63,136 @@ var data = [
 		},
 		{
 			name: "DHCP",
+			descrption: "",
+			instalacion:
+			[
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+				},
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+			configuracion:
+			[
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+				},
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+		},
+		{
+			name: "DNS",
+			descrption: "",
+			instalacion:
+			[
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+			configuracion:
+			[
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+		},
+		{
+			name: "Políticas de Grupo",
+			descrption: "",
+			instalacion:
+			[
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+				},
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+			configuracion:
+			[
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+				},
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+		},
+		{
+			name: "Intranet",
+			descrption: "",
+			instalacion:
+			[
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+				},
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+			configuracion:
+			[
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+				},
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+		},
+		{
+			name: "Certificate Authority (CA)",
+			descrption: "",
+			instalacion:
+			[
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+				},
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+			configuracion:
+			[
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+				},
+				{
+					name:"video Configuracion",
+					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+				},
+			],
+		},
+		{
+			name: "Folder Redirection del Directorio",
 			descrption: "",
 			instalacion:
 			[

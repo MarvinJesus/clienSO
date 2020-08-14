@@ -238,7 +238,7 @@ iframe {
     left: -90%;
   }
   .nav-menu .drop-down .drop-down:hover > ul {
-    left: -100%;
+    left: -45%;
   }
   .nav-menu .drop-down .drop-down > a:after {
     content: "\ea9d";
