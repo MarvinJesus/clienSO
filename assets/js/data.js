@@ -1,246 +1,165 @@
 
 
 var data = [
-		{
+		{//0
 			name: "Active Directory",
-			descrption: "Un directorio es una estructura jerárquica que almacena información sobre objetos en la red. Un servicio de directorio, como los Servicios de dominio de Active Directory (AD DS), proporciona los métodos para almacenar datos de directorio y ponerlos a disposición de los usuarios y administradores de la red. Por ejemplo, AD DS almacena información sobre cuentas de usuario, como nombres, contraseñas, números de teléfono, etc., y permite que otros usuarios autorizados en la misma red accedan a esta información.",
-			instalacion:
-			[
+			descrption: "Un directorio es una estructura jerárquica que almacena información sobre objetos en la red. Un servicio de directorio, como los Servicios de dominio de Active Directory (AD DS), proporciona los métodos para almacenar datos de directorio y ponerlos a disposición de los usuarios y administradores de la red. Por ejemplo, AD DS almacena información sobre cuentas de usuario, como nombres, contraseñas, números de teléfono, etc., y permite que otros usuarios autorIdizados en la misma red accedan a esta información.",
+			videos:[
 				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-			],
-			configuracion:
-			[
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-				{
-					name:"video Configuracion #4",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
+					name:"Instalación y Configuración",
+					link:"https://drive.google.com/file/d/10c9XWIw4gftFFU5keiwsnXstyBx61-Sf/preview",
+					autorId:0,
+				}
 			],
 		},
-		{
+		{//1
 			name: "Carpeta Grupal Desde el Servidor",
 			descrption: "",
-			instalacion:
-			[
+			videos:[
 				{
 					name:"video instalacion",
 					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					autorId:0,
 				},
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-			],
-			configuracion:
-			[
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					autorId:0,
 				},
 				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					autorId:0,
 				},
 			],
 		},
-		{
+		{//2
 			name: "DHCP",
-			descrption: "",
-			instalacion:
-			[
+			descrption: "El protocolo de configuración dinámica de host (en inglés: Dynamic Host Configuration Protocol, también conocido por sus siglas de DHCP) es un protocolo de red de tipo cliente/servidor mediante el cual un servidor DHCP asigna dinámicamente una dirección IP y otros parámetros de configuración de red a cada dispositivo en una red para que puedan comunicarse con otras redes IP",
+			videos:[
 				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-			],
-			configuracion:
-			[
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					name:"Instalación y Configuración de DHCP",
+					link:"https://drive.google.com/file/d/1-AKI45YWUK-dLbsYB-ACXe6O23i0zBll/preview",
+					autorId:0,
 				},
 			],
 		},
-		{
+		{//3
 			name: "DNS",
-			descrption: "",
-			instalacion:
-			[
+			descrption: "El proceso de traducción de los nombres de dominio en direcciones numéricas que las máquinas puedan entender es lo que se conoce como resolución de nombres, una labor que realiza el Domain Name System, en castellano Sistema de Nombres de Dominio, conocido por sus siglas DNS.",
+			videos:[
 				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-			],
-			configuracion:
-			[
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
+					name:"Instalación y Configuración del DNS",
+					link:"https://drive.google.com/file/d/1O7fyv1d4mpmYz4zex07C67TtWppJ1hRf/preview",
+					autorId:0,
+				}
 			],
 		},
-		{
+		{//4
 			name: "Políticas de Grupo",
-			descrption: "",
-			instalacion:
-			[
+			descrption: "Directiva de grupo es un conjunto de reglas que controlan el entorno de trabajo de cuentas de usuario y cuentas de equipo. Directiva de grupo proporciona la gestión centralizada y configuración de sistemas operativos, aplicaciones y configuración de los usuarios en un entorno de Active Directory",
+			videos:[
 				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					name:"Deshabilitar panel de control para invitados",
+					link:"https://drive.google.com/file/d/1XonE5SX5vO6NLhAeiEQQ23lh74bLZM0t/preview",
+					autorId:3,
 				},
 				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-			],
-			configuracion:
-			[
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					name:"Renombrar el usuario administrador y el usuario invitado",
+					link:"https://drive.google.com/file/d/1pTy8imjpF2gNv91mm09QM2q-bdqtDW_H/preview",
+					autorId:2,
 				},
 				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					name:"Definir pagina de inicio de internet explorer",
+					link:"https://drive.google.com/file/d/1Wtl3d1hEIullx334bTMxwNX9DCMdlzZN/preview",
+					autorId:3,
 				},
+				{
+					name:"Colocar fondo de pantalla por defecto a los usuarios invitados",
+					link:"https://drive.google.com/file/d/1afx_VPNCEa-3GEEynGVIuXJ29PseP9f3/preview",
+					autorId:3,
+				},
+				{
+					name:"Deshabilitar Notepad y Regedit para Invitados",
+					link:"https://drive.google.com/file/d/1pfCaMLKy-a-8DQ8mKf0QBzf_5b2OUY4h/preview",
+					autorId:2,
+				}
+
 			],
 		},
-		{
+		{//5
 			name: "Intranet",
 			descrption: "",
-			instalacion:
-			[
+			videos:[
 				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-			],
-			configuracion:
-			[
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
+					name:"Asociar Cliente al Dominio",
+					link:"https://drive.google.com/file/d/11jJIA5zWY7wkC2ymBV1rTlX2SY_F3vU7/preview",
+					autorId:2,
+				}
 			],
 		},
-		{
+		{//6
 			name: "Certificate Authority (CA)",
-			descrption: "",
-			instalacion:
-			[
+			descrption: "En criptografía, las expresiones autoridad de certificación, o certificadora, o certificante, o las siglas AC o CA, señalan a una entidad de confianza, responsable de emitir y revocar los certificados, utilizando en ellos la firma electrónica, para lo cual se emplea la criptografía de clave pública",
+			videos:[
 				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-			],
-			configuracion:
-			[
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					name:"Instalación del Certificate Authority",
+					link:"https://drive.google.com/file/d/1YoppOuOZD-1790nR6WlkJUa4NrjeZIbo/preview",
+					autorId:3,
 				},
 			],
 		},
 		{
 			name: "Folder Redirection del Directorio",
-			descrption: "",
-			instalacion:
-			[
-				{
-					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
+			descrption: "La redirección de carpetas y los archivos sin conexión se utilizan juntos para redirigir la ruta de las carpetas locales (como la carpeta Documentos) a una ubicación de red, mientras se almacena en caché el contenido localmente para aumentar la velocidad y la disponibilidad.",
+			videos:[
 				{
 					name:"video instalacion",
 					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					autorId:0,
 				},
-			],
-			configuracion:
-			[
 				{
-					name:"video Configuracion",
+					name:"video instalacion",
 					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					autorId:0,
 				},
 				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					autorId:0,
 				},
 			],
 		},
 		{
 			name: "WSUS",
 			descrption: "",
-			instalacion:
-			[
+			videos:[
 				{
 					name:"video instalacion",
 					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					autorId:0,
 				},
 				{
 					name:"video instalacion",
 					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					autorId:0,
+				},
+				{
+					name:"video instalacion",
+					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					autorId:0,
 				},
 			],
-			configuracion:
-			[
+		},
+		{
+			name: "HTTP y HTTPS",
+			descrption: "El Protocolo seguro de transferencia de hipertexto (en inglés, Hypertext Transfer Protocol Secure o HTTPS) es un protocolo de aplicación basado en el protocolo HTTP, destinado a la transferencia segura de datos de hipertexto, es decir, es la versión segura de HTTP.",
+			videos:[
 				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
-				},
-				{
-					name:"video Configuracion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
-				},
+					name:"Pasar de HTTP a HTTPS",
+					link:"https://drive.google.com/file/d/1kvwvlXbwZ5Kg_loUH3KCNg7TRPA8ajIH/preview",
+					autorId:3,
+				}
 			],
 		},
 	];
