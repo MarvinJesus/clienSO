@@ -7,7 +7,7 @@ var data = [
 			videos:[
 				{
 					name:"Instalación y Configuración",
-					link:"https://drive.google.com/file/d/10c9XWIw4gftFFU5keiwsnXstyBx61-Sf/preview",
+					link:"10c9XWIw4gftFFU5keiwsnXstyBx61-Sf",
 					autorId:0,
 				}
 			],
@@ -18,17 +18,17 @@ var data = [
 			videos:[
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					link:"14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW",
 					autorId:0,
 				},
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					link:"1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR",
 					autorId:0,
 				},
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					link:"1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR",
 					autorId:0,
 				},
 			],
@@ -39,7 +39,7 @@ var data = [
 			videos:[
 				{
 					name:"Instalación y Configuración de DHCP",
-					link:"https://drive.google.com/file/d/1-AKI45YWUK-dLbsYB-ACXe6O23i0zBll/preview",
+					link:"1-AKI45YWUK-dLbsYB-ACXe6O23i0zBll",
 					autorId:0,
 				},
 			],
@@ -50,7 +50,7 @@ var data = [
 			videos:[
 				{
 					name:"Instalación y Configuración del DNS",
-					link:"https://drive.google.com/file/d/1O7fyv1d4mpmYz4zex07C67TtWppJ1hRf/preview",
+					link:"1O7fyv1d4mpmYz4zex07C67TtWppJ1hRf",
 					autorId:0,
 				}
 			],
@@ -61,27 +61,27 @@ var data = [
 			videos:[
 				{
 					name:"Deshabilitar panel de control para invitados",
-					link:"https://drive.google.com/file/d/1XonE5SX5vO6NLhAeiEQQ23lh74bLZM0t/preview",
+					link:"1XonE5SX5vO6NLhAeiEQQ23lh74bLZM0t",
 					autorId:3,
 				},
 				{
 					name:"Renombrar el usuario administrador y el usuario invitado",
-					link:"https://drive.google.com/file/d/1pTy8imjpF2gNv91mm09QM2q-bdqtDW_H/preview",
+					link:"1pTy8imjpF2gNv91mm09QM2q-bdqtDW_H",
 					autorId:2,
 				},
 				{
 					name:"Definir pagina de inicio de internet explorer",
-					link:"https://drive.google.com/file/d/1Wtl3d1hEIullx334bTMxwNX9DCMdlzZN/preview",
+					link:"1Wtl3d1hEIullx334bTMxwNX9DCMdlzZN",
 					autorId:3,
 				},
 				{
 					name:"Colocar fondo de pantalla por defecto a los usuarios invitados",
-					link:"https://drive.google.com/file/d/1afx_VPNCEa-3GEEynGVIuXJ29PseP9f3/preview",
+					link:"1afx_VPNCEa-3GEEynGVIuXJ29PseP9f3",
 					autorId:3,
 				},
 				{
 					name:"Deshabilitar Notepad y Regedit para Invitados",
-					link:"https://drive.google.com/file/d/1pfCaMLKy-a-8DQ8mKf0QBzf_5b2OUY4h/preview",
+					link:"1pfCaMLKy-a-8DQ8mKf0QBzf_5b2OUY4h",
 					autorId:2,
 				}
 
@@ -93,7 +93,7 @@ var data = [
 			videos:[
 				{
 					name:"Asociar Cliente al Dominio",
-					link:"https://drive.google.com/file/d/11jJIA5zWY7wkC2ymBV1rTlX2SY_F3vU7/preview",
+					link:"11jJIA5zWY7wkC2ymBV1rTlX2SY_F3vU7",
 					autorId:2,
 				}
 			],
@@ -104,7 +104,7 @@ var data = [
 			videos:[
 				{
 					name:"Instalación del Certificate Authority",
-					link:"https://drive.google.com/file/d/1YoppOuOZD-1790nR6WlkJUa4NrjeZIbo/preview",
+					link:"1YoppOuOZD-1790nR6WlkJUa4NrjeZIbo",
 					autorId:3,
 				},
 			],
@@ -115,17 +115,17 @@ var data = [
 			videos:[
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					link:"14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW",
 					autorId:0,
 				},
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					link:"1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR",
 					autorId:0,
 				},
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					link:"1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR",
 					autorId:0,
 				},
 			],
@@ -136,17 +136,17 @@ var data = [
 			videos:[
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW/preview",
+					link:"14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW",
 					autorId:0,
 				},
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					link:"1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR",
 					autorId:0,
 				},
 				{
 					name:"video instalacion",
-					link:"https://drive.google.com/file/d/1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR/preview",
+					link:"1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR",
 					autorId:0,
 				},
 			],
@@ -157,7 +157,7 @@ var data = [
 			videos:[
 				{
 					name:"Pasar de HTTP a HTTPS",
-					link:"https://drive.google.com/file/d/1kvwvlXbwZ5Kg_loUH3KCNg7TRPA8ajIH/preview",
+					link:"1kvwvlXbwZ5Kg_loUH3KCNg7TRPA8ajIH",
 					autorId:3,
 				}
 			],
