@@ -18,19 +18,9 @@ function getdata(idService)
 			descrption: "",
 			videos:[
 				{
-					name:"video instalacion",
-					link:"14hXm13L5S_PcPcgeTzNlMAnJyVzsVwsW",
-					autorId:0,
-				},
-				{
-					name:"video instalacion",
-					link:"1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR",
-					autorId:0,
-				},
-				{
-					name:"video instalacion",
-					link:"1bkuRIqEzhKHSKzQ5-FEhCzafdQWHacbR",
-					autorId:0,
+					name:"Se comparte una carpeta publica para el grupo de usuarios del servidor",
+					link:"1IxtlO00VXk6zbHjK9Eb0og93VoOZXZQ0",
+					autorId:3,
 				},
 			],
 		},
@@ -112,6 +102,11 @@ function getdata(idService)
 					link:"11jJIA5zWY7wkC2ymBV1rTlX2SY_F3vU7",
 					autorId:2,
 				},
+				{
+					name:"Configurar Página por defecto de la empresa en el servidor web",
+					link:"1Iqc_4tZmDDvGWRnznQbs7O0FKrIQnRza",
+					autorId:3,
+				},
 			],
 		},
 		{//6
@@ -165,7 +160,7 @@ function getdata(idService)
 				{
 					name:"Mapeo de un disco P privado para cada usuario",
 					link:"1MT6AZ5tjzENZyEZ-PPJHuAUMgsPnLNYz",
-					autorId:3,
+					autorId:1,
 				}
 			],
 		},
