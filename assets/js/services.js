@@ -3,32 +3,7 @@ $( document ).ready(function() {
 	createElements(getAllData());
 });
 var indexVideo = 0;
-function getAutors(id)
-{
-	var autors=[
-		{
-			name:"Daniel Amir",
-			descrption:"Tecnología de Información y Comunicación",
-			email:"damirc@ucenfotec.ac.cr",
-		},
-		{
-			name:"Gabriel Jara Catarinella",
-			descrption:"Desarrollo de Software",
-			email:"gjarac@ucenfotec.ac.cr"
-		},
-		{
-			name:"Ignacio Molina Alvarado",
-			descrption:"Desarrollo de Software",
-			email:"molinaa@ucenfotec.ac.cr",
-		},
-		{
-			name:"Marvin Calvo Acuña",
-			descrption:"Desarrollo de Software",
-			email:"mcalvoa@ucenfotec.ac.cr",
-		},
-	];
-	return autors[id];
-}
+
 
 function getAllData()
 {
@@ -46,7 +21,7 @@ function createElements(data)
 {
 console.log(data);
 	$('#titleDescrip').text(data.name);
-	$('#TextDescrip').text(data.descrption);
+	$('#TextDescrip').html(data.descrption);
   	var items = [];
   	var autor = '';
   	$.each(data.videos, function( key, val ) {
