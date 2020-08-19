@@ -82,8 +82,8 @@ function getdata(idService)
 				},
 				{//6
 					name:"Actualizaciones automaticas del sistema operativo",
-					link:"1XonE5SX5vO6NLhAeiEQQ23lh74bLZM0t",
-					autorId:3,
+					link:"1kevZX-aeoFLlXHxynnj3cXuCCucUnnft",
+					autorId:2,
 				},
 
 			],
